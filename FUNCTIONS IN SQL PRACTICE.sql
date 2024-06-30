@@ -1,0 +1,21 @@
+select ASCII('c')
+select CHAR('105')
+select CHARINDEX('m','Good Morning')
+select LEFT('Harvard john',11)
+select LEN('MICHAEL JOHNS ')
+SELECT LOWER('SHAWN')
+SELECT UPPER('usa migratant')
+SELECT LTRIM ('                        CANADA CHALO')
+SELECT RTRIM ('                                  MODI PM   ')
+SELECT REPLACE('SANDEEP','EEP','Y')
+SELECT PATINDEX('%a%','MAILBOX')
+SELECT REVERSE('WORDPRESS')
+SELECT('DISASTER'+SPACE(8)+'MANAGEMENT')
+SELECT STR(8216.4942184,7,3)
+SELECT STUFF('CLIMATIC ISSUE',5,3,'Z')
+SELECT SUBSTRING('AMARBEDI',4,8)
+
+select stuff('SQL tutorial',1,3,'HTML')
+select SUBSTRING('GoodMorning',5,11)
+
+ 
